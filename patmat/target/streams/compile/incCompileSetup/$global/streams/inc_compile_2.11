@@ -1,0 +1,295 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes
+compile options:
+1 items
+0 -> -deprecation
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+16 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/common/package$.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/common/package.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2$$anonfun$apply$1.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman.class
+binary dependencies:
+4 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> /Users/daniel.liu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> /Users/daniel.liu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+16 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> common.package
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> common.package$
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> common.package$$anonfun$subFile$1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$createCodeTree$2
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$makeOrderedLeafList$1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$2
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$$anonfun$times$2$$anonfun$apply$1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$CodeTree
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Fork$
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat.Huffman$Leaf$
+used names:
+157 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> ::
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> <init>
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> <repeated>
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> Any
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> AnyRef
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> File
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> FileInputStream
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> InputStream
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> List
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> None
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> Nothing
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> Option
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> Predef
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> String
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> _root_
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> child
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> children
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> classesDir
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> common
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> exists
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> file
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> foldLeft
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> getClass
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> getParentFile
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> getResource
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> io
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> java
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> package
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> projectDir
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> resourceFile
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> resourcePath
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> scala
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> subFile
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> toURI
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> &&
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> +
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> ::
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> :::
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> <=
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> <init>
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> ==
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction2
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> AbstractFunction4
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> AnyRef
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Bit
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Boolean
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Char
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> CodeTable
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> CodeTree
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Error
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Fork
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Function1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Huffman
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Int
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> IntIsIntegral
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Leaf
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> List
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Map
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Nil
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> NoSuchElementException
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> None
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Numeric
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Ordering
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Predef
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Product
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> ScalaRunTime
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Serializable
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Statics
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> String
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> Tuple2
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> _1
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> _2
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> _root_
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> _toString
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> a
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> acc
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> anyHash
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> apply
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> asInstanceOf
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> augmentString
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> b
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> bit
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> bits
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> c
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> canBuildFrom
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> char
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> chars
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> codeBits
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> codeTable
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> combine
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> combineTrees
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> common
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> contains
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> convert
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> convertAcc
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> decode
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> decodeAcc
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> encode
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> encodeChar
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> eq
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> finalizeHash
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> frenchCode
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> freqs
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> groupBy
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> h
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> hchar
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> hcode
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> head
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> ifSingleton
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> immutable
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> isInstanceOf
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> kv
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> l
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> left
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> length
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> list
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> m
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> makeCodeTree
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> makeLeafList
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> makeOrderedLeafList
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> map
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> math
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> mix
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> ne
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> package
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> patmat
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> quickEncodeAcc
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> r
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> right
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> runtime
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> scala
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> secret
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> singleton
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> sortBy
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> sortedInsert
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> stepDecode
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> str
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> sum
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> t
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> table
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> text
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> textChar
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> times
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> toInsert
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> toInt
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> toList
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> toString
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> tree
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> treeLeftOver
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> trees
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> typedProductIterator
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> until
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> weight
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> x
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> xs
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> y
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> ||
+product stamps:
+16 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/common/package$$anonfun$subFile$1.class -> lastModified(1489112943000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/common/package$.class -> lastModified(1489112943000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/common/package.class -> lastModified(1489112943000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$1.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$createCodeTree$2.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$makeOrderedLeafList$1.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$1.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2$$anonfun$apply$1.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$$anonfun$times$2.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$CodeTree.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Fork$.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Fork.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf$.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman$Leaf.class -> lastModified(1489130361000)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/target/scala-2.11/classes/patmat/Huffman.class -> lastModified(1489130361000)
+source stamps:
+2 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> hash(885b8f12a5b2a83dad658f76cc1fdd678a38d4a8)
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> hash(209fc4dae232bbe7ea6b40ec6b07692295e5d8c9)
+binary stamps:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1474584629000)
+/Users/daniel.liu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1438617791000)
+class names:
+2 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/daniel.liu/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Product
+internal apis:
+2 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCH2I3RAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cMm+MXx0AAZub3RpZnlzcQB+AAyE/M00dAAHcGFja2FnZXNxAH4ADCYSurZ0AAR3YWl0c3EAfgAM8efqjHQADSRhc0luc3RhbmNlT2ZzcQB+AAzNivwPdAAGZXF1YWxzc3EAfgAM8WxUaXQADGFzSW5zdGFuY2VPZnNxAH4ADM7IhUp0AAxzeW5jaHJvbml6ZWRzcQB+AAxYw5T1dAANJGlzSW5zdGFuY2VPZnNxAH4ADKo9iEt0ABdyZXNvdXJjZUFzU3RyZWFtRnJvbVNyY3NxAH4ADIN8vFN0AAlub3RpZnlBbGxzcQB+AAwmJKnKdAAMaXNJbnN0YW5jZU9mc3EAfgAMacTab3QAAz8/P3NxAH4ADJp6YJF0AAI9PXNxAH4ADPKN8FN0AAVjbG9uZXNxAH4ADGdM1iN0AAdzdWJGaWxlc3EAfgAMJCvh6HQACHRvU3RyaW5nc3EAfgAMP7rEanQAAiE9c3EAfgAMCJe6qnQACGdldENsYXNzc3EAfgAMCCpDk3QAAm5lc3EAfgAMGnQJi3QAAmVxc3EAfgAMkxI1z3QAAiMjc3EAfgAMjXTkU3QACGZpbmFsaXplc3EAfgAMVNQ/iHQACGhhc2hDb2Rlc3EAfgAMe21E9HQAAyoqKnNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AA5jb21tb24ucGFja2FnZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AGB4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AF8Bc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AaHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cQB+AEIAAAAAcHNxAH4AXwF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGd0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGdzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIB0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIFzcQB+AHR0AANBbnlzcQB+AHhzcQB+AHt1cQB+AH4AAAACc3EAfgCAdAAFc2NhbGFxAH4Ah3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAGY29tbW9uc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFatgw9YnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AE0vVXNlcnMvZGFuaWVsLmxpdS9Eb3dubG9hZHMvQ291cnNlcmEgLSBTY2FsYS9wYXRtYXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIhbjxKlsqg9rWWPdswf3WeKONSo
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDt3hR8AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAARHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cBBqRuZ0AAZub3RpZnlzcQB+AAzj40CDdAAMbWFrZUNvZGVUcmVlc3EAfgAMMNffwHQABnNlY3JldHNxAH4ADPnmDgl0AAd1bmFwcGx5c3EAfgAMppAJRHQABmVuY29kZXNxAH4ADGGw/o10AAZ3ZWlnaHRzcQB+AAx7QHfadAAHY3VycmllZHNxAH4ADDJ3EqV0AAxzb3J0ZWRJbnNlcnRzcQB+AAzZ+AMmdAAEd2FpdHNxAH4ADD9MXYV0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADJ8yRD50AA0kYXNJbnN0YW5jZU9mc3EAfgAMSafulnQACWRlY29kZUFjY3NxAH4ADKFPmqN0AAxwcm9kdWN0QXJpdHlzcQB+AAytikLFdAAGZXF1YWxzc3EAfgAMU0v47nQAC3F1aWNrRW5jb2Rlc3EAfgAMZyVeY3QADGFzSW5zdGFuY2VPZnNxAH4ADJnCMkl0AAxzeW5jaHJvbml6ZWRzcQB+AAwzgt2YdAAEbGVmdHNxAH4ADC8/JqF0AA0kaXNJbnN0YW5jZU9mc3EAfgAM5G1jmHQABnR1cGxlZHNxAH4ADOWMSpB0AAdIdWZmbWFuc3EAfgAMrzPg1XQACGNhbkVxdWFsc3EAfgAM3LgqmXQADmNvcHkkZGVmYXVsdCQ0c3EAfgAM6aMAh3QABGNoYXJzcQB+AAy4FAb8dAAGZGVjb2Rlc3EAfgAMZ7XgnHQABExlYWZzcQB+AAzUn/iQdAAIY29kZUJpdHNzcQB+AAwEhdRkdAANcHJvZHVjdFByZWZpeHNxAH4ADO4WI6d0AAV1bnRpbHNxAH4ADNaygLF0AApmcmVuY2hDb2Rlc3EAfgAM9BfrKXQACW5vdGlmeUFsbHNxAH4ADIvcAQl0AAtyZWFkUmVzb2x2ZXNxAH4ADOrGGQ50AAVjaGFyc3NxAH4ADArqKv90AAxpc0luc3RhbmNlT2ZzcQB+AAw0cbMjdAAGPGluaXQ+c3EAfgAM2+5dGXQABWFwcGx5c3EAfgAM/kzrr3QADWRlY29kZWRTZWNyZXRzcQB+AAwk6L+cdAACPT1zcQB+AAz5EZRUdAAKZW5jb2RlQ2hhcnNxAH4ADBL0or10AAVjbG9uZXNxAH4ADBgXJOF0AA9tZXJnZUNvZGVUYWJsZXNzcQB+AAwIKvVAdAAFdGltZXNzcQB+AAwQQTAidAAMbWFrZUxlYWZMaXN0c3EAfgAM82j6MnQAB2NvbWJpbmVzcQB+AAyaJm6edAAOY29weSRkZWZhdWx0JDNzcQB+AAy+Po9ydAAEY29weXNxAH4ADF/cRMh0AAxzdHJpbmcyQ2hhcnNzcQB+AAzUYODqdAAIdG9TdHJpbmdzcQB+AAyOhw/ndAAJc2luZ2xldG9uc3EAfgAM2oteLXQAAiE9c3EAfgAMoi1lqnQACGdldENsYXNzc3EAfgAMGgvawXQACUNvZGVUYWJsZXNxAH4ADEdg+N90AA5jcmVhdGVDb2RlVHJlZXNxAH4ADEXyQTZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4ADPatRDx0AARGb3Jrc3EAfgAMJcagknQAA0JpdHNxAH4ADLKQ9W90AAJuZXNxAH4ADEPAr8h0ABNtYWtlT3JkZXJlZExlYWZMaXN0c3EAfgAMF3Jtq3QACENvZGVUcmVlc3EAfgAMx3RtkXQAAmVxc3EAfgAMh3kEqHQAB2NvbnZlcnRzcQB+AAxeHu7VdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMslaCT3QACnN0ZXBEZWNvZGVzcQB+AAwZrS4GdAAFcmlnaHRzcQB+AAwhplqIdAACIyNzcQB+AAwzMJ0XdAAIZmluYWxpemVzcQB+AAxVJdcedAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzRwE+9dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgCfeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAOcGF0bWF0Lkh1ZmZtYW51cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgC4eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgC3AHBzcQB+ALxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4An0wACWluaGVyaXRlZHEAfgCfTAAHcGFyZW50c3EAfgCfeHEAfgDAc3EAfgC3AHBzcQB+ALx1cQB+AJoAAAAAc3EAfgC3AHBzcQB+ALx1cQB+AJoAAAAAc3EAfgC3AHBzcQB+ALx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AL90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AL9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ANx0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AN1zcQB+ANB0AANBbnlzcQB+ANRzcQB+ANd1cQB+ANoAAAACc3EAfgDcdAAFc2NhbGFxAH4A43VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAABc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQABnBhdG1hdHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrcWEE11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABNL1VzZXJzL2RhbmllbC5saXUvRG93bmxvYWRzL0NvdXJzZXJhIC0gU2NhbGEvcGF0bWF0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQgn8Ta4jK75+prQOxrB2kileXYyQ==
+external apis:
+0 items
+source infos:
+2 items
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/common/package.scala -> 
+AAAAAAAAAAA=
+/Users/daniel.liu/Downloads/Coursera - Scala/patmat/src/main/scala/patmat/Huffman.scala -> 
+AAAAAAAAAAA=
+compilations:
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrYMPWJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrY57Vt1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrZC8nl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrbMhfJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrbeezZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrbip+91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrb8G6R1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrb/yTZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrcC5fJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrcGkLJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWrcWEE11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQATS9Vc2Vycy9kYW5pZWwubGl1L0Rvd25sb2Fkcy9Db3Vyc2VyYSAtIFNjYWxhL3BhdG1hdC90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
