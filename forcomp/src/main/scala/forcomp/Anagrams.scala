@@ -149,7 +149,7 @@ object Anagrams {
         occ <- combinations(occs) if dictionaryByOccurrences.contains(occ);
         anags <- dictionaryByOccurrences.get(occ).get;
         sents <- sentenceAnagramsAcc(subtract(occs, occ))
-      ) yield { anags :: sents }
+      ) yield anags :: sents
 
     sentenceAnagramsAcc(sentenceOccurrences(sentence))
   }
